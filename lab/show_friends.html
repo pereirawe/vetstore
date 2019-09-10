@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Show Friends</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#btn").onclick(function() {
+                $.ajax({
+                    url: "Ajax.php",
+                    type: "POST",
+                    data: "nombre=" + $("#nombre").val(),
+                    success: function() {
+                        $("#resultado-ajax").html(opciones);
+                    }
+                })
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div>
+        <form id="formulario">
+            <input type="text" class="nombre" id="nombre" name="nombre" />
+            <button type="submit" id="btn" class="consultar">Consulta tu nombre</button>
+        </form>
+        <div id="resultado-ajax">
+            <?php echo $nb?>
+        </div>
+    </div>
+</body>
+
+</html>

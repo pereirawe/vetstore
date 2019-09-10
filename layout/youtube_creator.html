@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div id="bp_post_245ba41d0372efd1537481987" class="wall_posts">
+        <a href="./welcome.php?perfil=German17">
+            <h6>
+                <img src="https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10156216205454892&amp;height=200&amp;width=200&amp;ext=1540079939&amp;hash=AeSKQ5QZkPUlMEwW" style="    height: 18px; border-radius: 50px; margin-right: 7px; ">Mario
+                Agudelo
+            </h6>
+        </a>
+        <p>Me encanta este video https://www.youtube.com/watch?v=rm52Oh7FPXY</p>
+        <small>Publicado el 20-09-2018 a las 17:19:47</small>
+    </div>
+
+    <script>
+        var youtu_post_245ba41d0372efd1537481987 = $('#bp_post_245ba41d0372efd1537481987 > p').html().indexOf('https://youtu.be/');
+        var youtube_post_245ba41d0372efd1537481987 = $('#bp_post_245ba41d0372efd1537481987 > p').html().indexOf('https://www.youtube.com/watch?v=');
+        if (youtube_post_245ba41d0372efd1537481987 >= 0) {
+            var youtube_post_245ba41d0372efd1537481987_length = $('#bp_post_245ba41d0372efd1537481987 > p').html().length;
+            var youtube_post_245ba41d0372efd1537481987_code = $('#bp_post_245ba41d0372efd1537481987 > p').html().substring(youtube_post_245ba41d0372efd1537481987_length - 11, youtube_post_245ba41d0372efd1537481987_length);
+            $('#bp_post_245ba41d0372efd1537481987 > p').append('<br><iframe width="100%" height="315" src="https://www.youtube.com/embed/' + youtube_post_245ba41d0372efd1537481987_code + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>');
+        }
+        if (youtu_post_245ba41d0372efd1537481987 >= 0) {
+            var youtu_post_245ba41d0372efd1537481987_length = $('#bp_post_245ba41d0372efd1537481987 > p').html().length;
+            var youtu_post_245ba41d0372efd1537481987_code = $('#bp_post_245ba41d0372efd1537481987 > p').html().substring(youtu_post_245ba41d0372efd1537481987_length - 11, youtu_post_245ba41d0372efd1537481987_length);
+            $('#bp_post_245ba41d0372efd1537481987 > p').append('<br><iframe width="100%" height="315" src="https://www.youtube.com/embed/' + youtu_post_245ba41d0372efd1537481987_code + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>');
+        }
+    </script>
+</body>
+
+</html>

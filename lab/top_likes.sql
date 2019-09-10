@@ -1,0 +1,1 @@
+SELECT post_id , COUNT(post_id) AS like_account FROM likes GROUP BY post_id ORDER BY like_account DESC  LIMIT 10;

@@ -1,0 +1,170 @@
+    Listo
+    OK - Agregar países a lista en Conf 1
+    OK - Revisar formato de Numero telefonico
+    OK - Fecha de Nacimiento en perfil del usuario min 18 años, max 100
+    OK - Espacio Publicitario (Mario envía la imagen y el enlace)
+    OK - Ocultar el resto de la barra derecha_a
+    OK - Invitar Amigos desde el Correo o Whatsapp
+    OK - Ocultar: Grupos, eventos, noticias, nuevos, tendencias cambiar y enviar a Blog
+    OK - En LeftSidebar Editar mi perfil y desplegar
+    OK - Agregar siluetas de mascota, usuario e imagen de banner por defecto
+    OK - Actualizar querys de acceso de Facebook, Google y habilitar registro de nuevos usuarios
+    OK - Notificación de Solicitud de solicitud de Amistad en el correo
+    OK - Notificación de Solicitud de solicitud de Amistad en el sitio
+    OK - Respuesta de Solicitud de Amistad desde el sitio
+    OK - Respuesta de Solicitud de Amistad desde el correo
+    OK - Notificación de respuesta de solicitud de Amistad en el correo
+    OK - Ver mis amigos
+    OK - Ver Personas que quizás conozcas no amigos y agregar botón de Agregar
+    OK - Agregar mensaje en sitio del home "Crea tu cuenta GRATIS y entra a la comunidad de los ¡Pet Lovers!" Contenido desde admin.
+    OK - Quitar Boton de "agregar a amigos" del perfil de mis amigos
+    OK - Mensaje de ventanas emergentes para invitar Whatsapp
+    OK - Cambiar color del inputs en los headers
+    OK - Eliminar de mis amigos desde barra izquierda
+    OK - Btn Dejar de ser amigos
+    OK - Cancelar solicitud de amistad en el perfil
+    OK - Btn de agregar en perfil no aparece cuando ya está la solicitud hecha.
+    OK - Invitar por correo hábilitar texto mayor a 10 caracteres.
+    OK - Revisar error al iniciar sesión con contraseña o usuario errado (LINEA 28 -> /login.php)
+    OK - Ver Personas que quizás conozcas (solo no amigos y sin solicitudes de amistad) en barra derecha
+    NO FUNCIONÓ - Hacer un frame redireccionar a tienda
+    OK - Mis mascotas ver en barra izquierda
+    OK - Quitar enlace inútil de la foto de perfil y de la mascota.
+    OK - Borrar Mis Publicaciones.
+    OK - Bloquear publicaciones en blanco.
+    OK - Ver publicaciónes en el muro general.
+    OK - Ver nombre del que publica
+    OK - Agregar enlace al perfil de amigos desde sus publicaciones
+    OK - Ingreso por el enlace del correo en la solicitud da error porque la sesion no esta iniciada. Envía a login y luego acepta la solicitud de amistad.
+    OK - Editar diseño y avatar desde mi perfil, no desde otros perfiles
+    OK - Editar Mis Publicaciones
+    OK - Creacion de Respaldos
+    OK - Verificación de SSL - HTTPS
+    OK - Migrar a vetstore.com.co
+    OK - Testeo de migración
+    OK - Quitar Post_id del titulo en modal de edición de Posts
+    OK - Publicar videos youtube
+    OK - Optimizar el ancho y alto de iframes en las publicaciones
+    OK - Pop up se WhatsApp que sale orden app y solo una vez por coockie
+    OK - Publicar Imágenes
+    OK - Mis fotos en la barra izquierda con 9 miniaturas
+    OK - Permitir publicaciones de solo imagenes y no texto, o requerir texto
+    OK - Mejorar apariencia de agregar a amigos
+    OK - Mejorar apariencia de dejar de ser amigos
+    OK - Mejorar apariencia de boton de Invitar
+    OK - Mejorar apariencia de boton de Publicar
+    OK - Acortar nombres de amigos en Mis amigos
+    OK - Acortar nombres de amigos en Personas que quizas conozcas
+    OK - Boton de Inicio no en mayusculas y normalizar el tamaño del texto
+    OK - Modulo de todas las fotos del usuario
+    OK - Enlace a ver todas las fotos del usuario en titulo de miniaturas de fotos en el sidebar izquierdo
+    OK - Enlace a ver todas las fotos del usuario en 1.2 del Mi perfil
+    OK - Previsualizar si se sube una imagen (se ve el nombre de la imagen, pronto se previsualizara la imagen como tal)
+    OK - Suspender Inicio de Sesion con Google
+    OK - Mejorar apariencia de perfil en configuracion sidebar derecho
+    OK - Colocar imagenes en forma de galeria en mis fotos
+    OK - Enlazar imagen de perfil al perfil en sidebar derecho de configuracion.
+    OK - Error en enlace de aceptar invitacion de amistad
+    OK - Error en el destinatario del Correo de confirmacion cuando se acepta la solicitud de amistad
+    OK - Mostrar mas de 3 amigos en sidebar izquierdo
+    OK - Editar fotos de mis publicaciones
+    OK - Comentar Publicaciones
+    OK - Meter Comentarios en un acordeon
+    OK - Mostrar identidad del que hace un comentario
+    OK - Redirigir comentarios
+    OK - Habilitar Loader
+    OK - Funcion me gusta - Ya no me gusta
+    OK - Quitar el enlace ofertas en el sidebar derecho
+    OK - Quitar enlace de perfil de usuario en las sugerencias de amistad
+    OK - Deshabilitar loader
+    OK - Dar espacio después antes de botón de inicio con Facebook
+    OK - Quitar la Comentar, Editar Y Publicar dejar solo Publica quitar la (R).
+    OK - Habilitar Nombre y Apellido en el formulario de registro
+    OK - Ajustar el tamaño de botones en  post_tools
+    OK - Estilo del Boton de Busqueda
+    OK - Validación de Nombres de Usuario
+    OK - Sugerencia de amistad que quede en la misma ventanas
+    OK - Motor Busqueda
+    OK - Motor solo toma una palabras
+    OK - Función de Botones Me gusta y No me gusta con 3 ESTADOS, Si, no y neutro  alternables
+    
+    
+    OK - Error de respuesta de solicitud de amistad
+    OK - Agregar amigos Vetstore al iniciar sesíon 
+    OK - Agregar amigos Vetstore al iniciar con facebook
+    OK - Crear relacion de amistad con Vetstore y el resto de usuarios
+    OK - Revisar errores para recuperación de Contraseñas
+    OK - Ver todos "Mis amigos"
+
+
+    EN EJECUCIÓN
+    Agregar imagen y botones de accion a lista de todos los amigos
+    Eliminar de amigos AJAX
+    Solicitud de amigos AJAX
+
+
+    Notificaciones / Mis mensajes
+    Revision de errores de inicio de sesion sin correo
+    Inicio con nombres de usuario
+    Hacer escript de limpiar bases de datos
+        Usuarios   
+            Publicaciones
+            Amigos
+            Imagenes
+            Comentarios
+    Eliminar mi cuenta > Configuracion de mi perfil > Privacidad y Seguridad
+
+
+    eNLACE EN EL Pie al Blog funciona, probar en lace a la tienda
+    Editar banner desde mi perfil
+    Compartir en facebook, twitter, Google plus, embed, Correo, copiar enlace
+    Botones pierden el color al reducir pantalla 80 % 
+    Creación, optimizacion y resumen de funciones generales
+    Pre render de Imágenes
+    Programación de Recordatorios de Solicitudes semanal
+    Creación de log de cada usuario, Inicio, Acepto o rechaza amistad, publicación, cambio de información de perfil,
+    Recordatorios de Inicios de Sesion cada 15 días
+    Ver todos las sugerencias de amistad, en un popup
+    Comentarios de comentarios
+
+    
+
+
+    - Agregar fotos de mis mascotas
+    - En mascotas ver su galeria de fotos (Tiene subtareas)
+    - Validar formato de correos electronicos
+    - Validar nombres de usuario
+
+        PUBLICACIONES
+            - Previsualizar imagenes al subir antes de publicar
+            - Publicar galerias de imagenes
+            - Publicar videos facebook
+            - Boton de agregar fotos
+            - Publicar enlaces
+            - Cada 3 Posts : publicidad
+        
+        PERFILES
+            - Perfil de Terceros ver mascotas, información disponible y amigos
+            - boton de ver todas las fotos
+            - Foto de portada en mascotas
+
+        ESTILOS
+            - Botones pierden el color al reducir pantalla 80 % 
+
+        PLUGINS
+            - Notificaciones al usuario: Likes, comentarios, solicitudes de amistad.
+            - Mensaje para imágenes mayores a 5 MB al editar diseño, avatar y mascotas
+            - Aplicar medidas de Privacidad de amigos
+            - Motor de búsqueda de usuarios, mascotas, correos y Hashtags
+            - Error 403 al iniciar con Google
+
+    Post-producción
+    - Mensajes instantaneos CHAT
+    - Mis mensajes
+    - Revisar Estilos
+    - Responsives
+    - Procesar imágenes antes de subirlas
+    - Scroll de publicaciones
+    - Función en Admin de Publicidad, palabras claves, tipos de mascotas
+    - Paises y códigos telefónicos
+    - Boton de crear
