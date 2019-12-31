@@ -1,0 +1,6 @@
+conf/
+env/
+error_log
+admin/error_log
+lab/error_log
+.ftpquota
